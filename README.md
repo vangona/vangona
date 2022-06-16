@@ -2,6 +2,9 @@
 
 [![Vangona's GitHub stats](https://github-readme-stats.vercel.app/api?username=vangona&theme=radical)](https://github.com/vangona/github-readme-stats)
 
+![](https://tokei.rs/b1/github/vangona)
+![](https://tokei.rs/b1/github/vangona?category=files)
+
 ## Skills
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logo=Typescript&logoColor=white)
