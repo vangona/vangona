@@ -20,4 +20,4 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
 
 ## ✏️ BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yummygona)(https://solved.ac/yummygona/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yummygona)(https://solved.ac/yummygona/)
