@@ -3,7 +3,7 @@
 [![Vangona's GitHub stats](https://github-readme-stats.vercel.app/api?username=vangona&theme=radical)](https://github.com/vangona/github-readme-stats)
 
 ## Languages
-github-readme-stats.vercel.app/api/top-langs/?username={vangona}&langs_count=3
+![Code Lines](https://github-readme-stats.vercel.app/api/top-langs/?username={vangona}&langs_count=3)
 
 ## Skills
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white)
