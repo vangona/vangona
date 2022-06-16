@@ -1,9 +1,7 @@
 # KIM KWAN KYOUNG 🧑‍🔬🧑‍💻
 
 [![Vangona's GitHub stats](https://github-readme-stats.vercel.app/api?username=vangona&theme=radical)](https://github.com/vangona/github-readme-stats)
-
-## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vangona&langs_count=3&hide=python&layout=compact)](https://github.com/vangona/)
+[![vangona's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vangona)](https://github.com/vangona/github-readme-stats)
 
 ## Skills
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=white)
