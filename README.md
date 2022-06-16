@@ -7,6 +7,7 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
 ![gulp](https://img.shields.io/badge/gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled%20components-DB7093.svg?style=for-the-badge&logo=styled%20components&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Nextjs-000000.svg?style=for-the-badge&logo=Nextjs&logoColor=white)
