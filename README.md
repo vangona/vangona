@@ -1,4 +1,14 @@
 # KIM KWAN KYOUNG 🧑‍🔬🧑‍💻
+> 여러 각도로 문제에 접근할 수 있는 사람이 되고 싶습니다.  
+> 프로젝트와 공부한 내용을 저장하고 기록합니다.
+
+### ✏️ 공부 내용을 정리하는 방법
+
+&nbsp; 이 저장소에는 공부 내용을 정리하며 **느낀점과 통찰들을 통해, 학습 내용을 전달하고 기록**합니다.
+
+지식과 정보는 '아직은' 저보다 잘 아는 교수님들과 책, 강의가 너무나도 많습니다. 그러니 이 저장소는 제 경험과 지식을 통해 바라보는, **공부한 개념에 대해 설명하는 여러 시각 중 하나**입니다.  
+
+공부해서 습득한 **지식과 정보**는 따로 손으로 직접 기록하고 있습니다.
 
 [![Vangona's GitHub stats](https://github-readme-stats.vercel.app/api?username=vangona&theme=radical)](https://github.com/vangona/github-readme-stats)
 
