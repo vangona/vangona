@@ -5,7 +5,6 @@
 ### ✏️ 공부 내용을 정리하는 방법
 
 &nbsp; 깃허브에는 공부 내용을 정리하며 **느낀점과 통찰들을 통해, 학습한 내용을 전달하고 기록**합니다. 
-
 공부해서 습득한 **지식과 정보**는 따로 손으로 직접 기록하고 있습니다.
 
 [![Vangona's GitHub stats](https://github-readme-stats.vercel.app/api?username=vangona&theme=radical)](https://github.com/vangona/github-readme-stats)
