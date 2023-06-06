@@ -1,6 +1,9 @@
-# KIM KWAN KYOUNG 🧑‍🔬🧑‍💻
+# KIM KWAN KYOUNG(Vincent) 🧑‍🔬🧑‍💻
 > 여러 각도로 문제에 접근할 수 있는 사람이 되고 싶습니다.
 > 프로젝트와 공부한 내용을 저장하고 기록합니다.
+
+### [Vincent의 개발블로그](https://vangona-vincent-co.work/)
+- 놀러오세요. Vincent의 뇌.
 
 ### ✏️ 공부 내용을 정리하는 방법
 
